@@ -95,7 +95,7 @@
         <div class="col-md-4">
             <div class="card mb-4">
                 <div class="card-body">
-                    <h5 class="card-title">Support and Maintenance1</h5>
+                    <h5 class="card-title">Support and Maintenance</h5>
                     <p class="card-text">With 24/7 monitoring, proactive identification of issues, and rapid resolution, your workflows would be kept efficient with frictionless automated processes, your teams empowered.
 
                     </p>
